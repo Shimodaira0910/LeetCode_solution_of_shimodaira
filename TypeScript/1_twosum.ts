@@ -1,4 +1,5 @@
 // 1. Two Sum
+// 140ms 44.78mb
 
 const nums: number[] = [3,3];
 const target: number = 6
