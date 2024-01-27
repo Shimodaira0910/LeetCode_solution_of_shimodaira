@@ -27,7 +27,19 @@ public class Solution {
             return false;
         }
     }
+    
+    public int maxSum(int[] nums){
+        int ans;
+        String tmp;
+        String tmp_array;
 
+        for(int i = 0; i < nums.length; i++){
+            tmp = String.valueOf(nums[i] + nums[i + 1]);
+            
+
+        }
+    }
+   
     public int majorityElement(int[] num){
         int result = 0;
         int ans = 0;
